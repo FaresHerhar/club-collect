@@ -3,3 +3,6 @@
 
 # ignore python cache directory
 __pycache__/*
+
+# ignore the downloaded resource files
+resources/*
